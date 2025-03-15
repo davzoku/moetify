@@ -23,4 +23,5 @@ classifiers=[
 dependencies = [
     "transformers==4.47.1",
     "peft==0.14.0",
+    "datasets=3.4.0"
 ]
